@@ -6,6 +6,7 @@
     width: 100%;
     background-color: #17a2b8 !important;
     z-index: 10;
+    margin-bottom: 5%;
   }
   .navbar-nav {
     margin-left: auto;
@@ -46,6 +47,7 @@
     border: none;
     background-color: whitesmoke;
     border-radius: 5%;
+    margin-top: 5%;
 
 }
 
@@ -72,6 +74,7 @@ p{
     width: 100%;
     color: white;
     text-align: center;
+    margin-top: 5%;
 }
 
 .Avatar{
