@@ -8,6 +8,9 @@ In this challenge, I created Portfolio page using Bootstrap 4.0.0 with the follo
 - Hyperlinks with hover effects.
 - Buttons displaying a box shadow upon hover.
 
+## Deployed URL
+https://prangchira.github.io/Bootstrap-Portfolio
+
 ## Credit
 I would like thank TA Samuel Cordova (https://github.com/SamuelDuartedeCordova) and TA Asia, for their guidance and help on this project. 
 
